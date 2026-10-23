@@ -1,7 +1,6 @@
-##Dashboard Preview
-![Acushnet Financial Analysis Dashboard](Dashboard.png)
-
 # Acushnet Holdings Corporation - Financial Statement Analysis
+![Acushnet Financial Analysis Dashboard](Dashbord.png)
+
 Project Overview
 An Indpendent financial statement analysis of Achusnet Holdings Corporation, the parent company of Titleist, using publicly available financial reporting data. 
 
