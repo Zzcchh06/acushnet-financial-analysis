@@ -1,5 +1,5 @@
 ##Dashboard Preview
-![Acushnet Financial Analysis Dashboard](dashboard.png)
+![Acushnet Financial Analysis Dashboard](Dashboard.png)
 
 # Acushnet Holdings Corporation - Financial Statement Analysis
 Project Overview
